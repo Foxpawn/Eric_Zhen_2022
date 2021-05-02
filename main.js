@@ -23,8 +23,8 @@ var arrayToWords = function(arr){
 	return ans
 
 };
-
-
+var sol = process.argv.slice(2);//take command line input store in variable
+console.log(arrayToWords(sol))//use command line input into function
 
     
 
