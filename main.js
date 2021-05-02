@@ -1,4 +1,7 @@
-
+/* Eric Zhen
+ezhen@stevens.edu
+Kargo Assignment
+*/
 var numberToPhonetic = function(num) {
 	/* Helper Function that turns one number into phonetic equivalent */
 	var nums = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine'] //make an array to store single digit
